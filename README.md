@@ -20,4 +20,4 @@ Methodology
 3)Model Evaluation: Used accuracy measures and plotted graphs between predicted values and actual values (y_test) to 4)evaluate model performance
 
 Model Selection:
-**Based on the plotted graphs and accuracy measures, the Random Forest model was chosen due to its superior performance in handling the dataset's complexity.
+**Based on the plotted graphs and accuracy measures, the Random Forest model was chosen due to its superior performance  in handling the dataset's complexity.
